@@ -1,3 +1,5 @@
+
+[![Android CI](../../actions/workflows/android.yml/badge.svg)](../../actions/workflows/android.yml)
 # LADB
 A local ADB shell for Android!
 
